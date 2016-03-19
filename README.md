@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/wgoh/ember-tutorial.svg?branch=master)](https://travis-ci.org/wgoh/ember-tutorial)
+
 # Super-rentals
 
 This README outlines the details of collaborating on this Ember application.
